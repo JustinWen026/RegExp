@@ -57,7 +57,8 @@ Java 版本：Java 8 或更新版本
 記憶體設定：最大可用 heap size 設定為 256MB，透過 -Xmx256m 參數設置。
 例外處理 (Exception Handling)
 若程式執行時間超過 10 分鐘或出現記憶體溢出 (Out of Memory) 的情況，該測試案例將視為失敗。
-README
+
+
 Introduction
 This project is a Java-based program that processes input text files and checks for specific patterns according to the following rules:
 
